@@ -29,7 +29,7 @@ npm start
 ## Prerequisites
 You'll need to setup a clerk instance and setup environment variables  to run the app.
 
-For up-to-date information on environment variables and setting up a clerk instance, please see the [documentation](https://dhruv-tech.gitbook.io/ninjachefs/frontend#prerequisites).
+For up-to-date information on environment variables and setting up a clerk instance
 
 ## Deployment
 

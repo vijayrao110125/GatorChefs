@@ -3,9 +3,6 @@
 
 sTgYa4kJzG2BPSS6k47qOZtBO8Dn1PXh2B_4uXDd
 
-Please see the [documentation](https://dhruv-tech.gitbook.io/ninjachefs/backend-api/api-reference) for API reference.
-
-## Jump to
 
 * [Getting Started](README.md#getting-started)
 * [Prerequisites](README.md#prerequisites)
@@ -41,7 +38,7 @@ Setting up the Backend API requires an instance of MongoDB Atlas, Clerk, Cloudfl
 
 You'll also need to setup environment variables to point to these instances.
 
-For updated information on environment variables and setting up these instances, please see the [documentation](https://dhruv-tech.gitbook.io/ninjachefs/backend-api#prerequisites).
+For updated information on environment variables and setting up these instances,
 
 ## Deployment
 
