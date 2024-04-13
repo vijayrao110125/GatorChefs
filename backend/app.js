@@ -195,7 +195,7 @@ app.get('/api/v1/submissions/:id', async(req, res) => {
 
 })
 
-app.listen(port, host, async() => {
+app.listen(port, async() => {
     console.log(`\x1b[33m→ Connecting to Database...\x1b[0m`)
     await db.connect();
     console.log(`\x1b[32m → Connected.\x1b[0m`)
