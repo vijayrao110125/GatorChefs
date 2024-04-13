@@ -8,8 +8,6 @@
 
 🌐 See a **live demo** [here](https://go.dhruv.tech/p/ninjachefs).
 
-🍽️ **Sample recipes** for testing the demo can be found [here](https://github.com/dhruv-tech/ninjachefs/wiki).
-
 <img src="https://github.com/dhruv-tech/ninjachefs/assets/26849655/5b1c885d-72ca-416d-988c-07f68267540f" alt="screenshot of ninjachefs homepage" height="375">
 
 ## Introduction
