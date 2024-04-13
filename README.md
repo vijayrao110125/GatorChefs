@@ -1,4 +1,4 @@
-# NinjaChefs + AI
+# GatorChefs
 
 *Web application that leverages generative AI to simplify online recipe sharing.*
 
