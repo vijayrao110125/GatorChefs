@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/GatorChefs/static/css/main.5418aff1.css",
+    "main.js": "/GatorChefs/static/js/main.c23a3cab.js",
+    "static/js/787.2cc633f3.chunk.js": "/GatorChefs/static/js/787.2cc633f3.chunk.js",
+    "static/media/footer_dhruv_logo.svg": "/GatorChefs/static/media/footer_dhruv_logo.7a0fb15af54bb9e348f50c72a818e72a.svg",
+    "static/media/logo.jpeg": "/GatorChefs/static/media/logo.19f4143c1a7f209c1707.jpeg",
+    "index.html": "/GatorChefs/index.html",
+    "main.5418aff1.css.map": "/GatorChefs/static/css/main.5418aff1.css.map",
+    "main.c23a3cab.js.map": "/GatorChefs/static/js/main.c23a3cab.js.map",
+    "787.2cc633f3.chunk.js.map": "/GatorChefs/static/js/787.2cc633f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5418aff1.css",
+    "static/js/main.c23a3cab.js"
+  ]
+}
