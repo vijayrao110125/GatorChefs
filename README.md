@@ -2,19 +2,11 @@
 
 *Web application that leverages generative AI to simplify online recipe sharing.*
 
-📑 For **technical documentation**, please see this [GitBook](https://dhruv-tech.gitbook.io/ninjachefs).
-
-## Try it out
-
-🌐 See a **live demo** [here](https://go.dhruv.tech/p/ninjachefs).
-
-<img src="https://github.com/dhruv-tech/ninjachefs/assets/26849655/5b1c885d-72ca-416d-988c-07f68267540f" alt="screenshot of ninjachefs homepage" height="375">
-
 ## Introduction
 
 Sharing recipes online is tedious, and often involves a lot more than just writing the recipe - such as preparing a detailed ingredient list, writing an introduction, taking an appetising picture and a lot more.
 
-NinjaChefs + AI, attempts to eliminate this 'barrier to entry' from online recipe sharing and make it accessible by helping the user focus on just the recipe.
+GatorChefs + AI, attempts to eliminate this 'barrier to entry' from online recipe sharing and make it accessible by helping the user focus on just the recipe.
 
 ## Tech Stack
 
