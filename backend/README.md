@@ -39,30 +39,3 @@ Setting up the Backend API requires an instance of MongoDB Atlas, Clerk, Cloudfl
 You'll also need to setup environment variables to point to these instances.
 
 For updated information on environment variables and setting up these instances,
-
-## Deployment
-
-The application can be simply deployed by specifying its [configuration details](./#configuration-details) and adding [environment variables](./#prerequisites), when you use modern app hosting services such as Railway and DigitalOcean App Platform.
-
-You may refer to these guides, for such services:
-
-* [Deploy Node.js app on DigitalOcean App Platform](https://www.youtube.com/watch?v=4hdDDPLvpnQ).
-* [Deploy Node.js app on Railway](https://alphasec.io/how-to-deploy-a-nodejs-app-on-railway/).
-
-If you wish to manually deploy this application on a server, please follow these guides:
-
-* [Deploy Node.js app on a Linux server (Debian-based)](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-20-04).
-* [Deploy Node.js app on a Windows server.](https://dev.to/massivebrains/deploying-node-express-app-on-a-windows-server-2l5c)
-
-### Configuration Details
-
-| Property               | Value         | Addl. Details                                                                                |
-| ---------------------- | ------------- | -------------------------------------------------------------------------------------------- |
-| Runtime                | Node.js       | `Version 20`                                                                                 |
-| Build Command          | None          |                                                                                              |
-| Build output directory | None          |                                                                                              |
-| Install Command        | `npm install` |                                                                                              |
-| Start Command          | `node app`    | Default `HOST` is `127.0.0.1`, Default `PORT` is `8080`. Change using environment variables. |
-| Root directory         | `/backend`    |                                                                                              |
-| Entrypoint             | `./app.js`    |                                                                                              |
-
