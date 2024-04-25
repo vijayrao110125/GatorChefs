@@ -30,22 +30,3 @@ npm start
 You'll need to setup a clerk instance and setup environment variables  to run the app.
 
 For up-to-date information on environment variables and setting up a clerk instance
-
-## Deployment
-
-Use any static site hosting service like Vercel, Cloudflare Pages or DigitalOcean App Platform to deploy the app by specifying the [basic configuration](readme.md#basic-configuration) details below and setting up [environment variables](readme.md#environment-variables).&#x20;
-
-The guides below detail this process:
-
-* [Vercel](https://vercel.com/guides/deploying-react-with-vercel)
-* [Cloudflare Pages](https://developers.cloudflare.com/pages/framework-guides/deploy-a-react-site/)
-* [DigitialOcean](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-react-application-to-digitalocean-app-platform)&#x20;
-
-### Configuration Details
-
-| Property               | Value           | Addl. Details       |
-| ---------------------- | --------------- | ------------------- |
-| Framework              | `React`         | `Version 18.1.0`    |
-| Build Command          | `npm run build` | `Node Version >=10` |
-| Build output directory | `/build`        |                     |
-| Root directory         | `/frontend`     |                     |
