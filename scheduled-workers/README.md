@@ -46,23 +46,3 @@ http://localhost:[PORT]/cdn-cgi/mf/scheduled
 ```
 
 Replace `[PORT]` with the assigned local port.
-
-## Deployment
-
-Deployment can only be done on the Cloudflare platform.
-
-`Wrangler` is required for deployment, install the package if you haven't already:
-
-```bash
-npm i -g wrangler@latest
-```
-
-`cd` into the folder containing the worker that needs to be deployed and run the following command:
-
-```bash
-wrangler deploy
-```
-
-Running the command for the first time, would require you to login to your cloudflare account.
-
-Once deployed, set the required environment variables from the `worker settings` page in your cloudflare dashboard.
